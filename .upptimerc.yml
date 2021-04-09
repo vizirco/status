@@ -21,16 +21,16 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://www.vizir.co/wp-content/uploads/2020/11/logo.svg
-  # name: 
+  name: Status Page
   introTitle: "**Vizir** Logiciel de création de chatbots pour équipes agiles"
   introMessage: Vizir est un logiciel qui vous permet de créer et gérer des chatbots intégrés avec vos applications métiers sans aucune compétence de code nécessaire. Vos équipes et vos clients le méritent bien !
   navbar:
-    - title: Status
-      href: /
     - title: Site web
       href: https://vizir.co
     - title: Dashboard
       href: https://dashboard.vizir.co
+    - title: Aide
+      href: https://help.vizir.co
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

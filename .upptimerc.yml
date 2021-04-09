@@ -6,16 +6,28 @@ repo: status # Your GitHub repository name
 sites:
   - name: Dashboard
     url: https://dashboard.vizir.co
+    assignees:
+      - bguivarch
   - name: API
     url: https://developers.vizir.co
+    assignees:
+      - bguivarch
   - name: Chatbot Web
     url: https://chat.vizir.co
+    assignees:
+      - bguivarch
   - name: Website
     url: https://vizir.co
+    assignees:
+      - bguivarch
   - name: Aide
     url: https://help.vizir.co
+    assignees:
+      - bguivarch
 
 status-website:
+  favicon: https://www.vizir.co/wp-content/uploads/2019/04/cropped-favicon-32x32.png
+  faviconSvg: https://help.vizir.co/assets/favicons/favicon.ico
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.vizir.co
   # Uncomment the following line if you don't have a custom domain and add your repo name

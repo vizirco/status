@@ -17,7 +17,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  cname: status.vizir.co
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://www.vizir.co/wp-content/uploads/2020/11/logo.svg

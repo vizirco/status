@@ -21,9 +21,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://www.vizir.co/wp-content/uploads/2020/11/logo.svg
-  name: Vizir
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # name: 
+  introTitle: "**Vizir** Logiciel de création de chatbots pour équipes agiles"
+  introMessage: Vizir est un logiciel qui vous permet de créer et gérer des chatbots intégrés avec vos applications métiers sans aucune compétence de code nécessaire. Vos équipes et vos clients le méritent bien !
   navbar:
     - title: Status
       href: /

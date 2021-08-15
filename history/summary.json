@@ -22,7 +22,7 @@
     "url": "https://developers.vizir.co",
     "icon": "https://favicons.githubusercontent.com/developers.vizir.co",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1855,
     "timeDay": 1248,
-    "timeWeek": 1990,
+    "timeWeek": 2004,
     "timeMonth": 2391,
     "timeYear": 1855,
     "dailyMinutesDown": {}

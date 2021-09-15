@@ -13,7 +13,7 @@
     "time": 1227,
     "timeDay": 893,
     "timeWeek": 1168,
-    "timeMonth": 1507,
+    "timeMonth": 1522,
     "timeYear": 1227,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1728,
     "timeDay": 953,
     "timeWeek": 1254,
-    "timeMonth": 1156,
+    "timeMonth": 1164,
     "timeYear": 1728,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://vizir.co",
     "icon": "https://favicons.githubusercontent.com/vizir.co",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

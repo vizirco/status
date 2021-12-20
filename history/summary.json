@@ -76,17 +76,17 @@
     "url": "https://help.vizir.co",
     "icon": "https://favicons.githubusercontent.com/help.vizir.co",
     "slug": "aide",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 89,
-    "timeWeek": 175,
-    "timeMonth": 219,
-    "timeYear": 325,
+    "time": 324,
+    "timeDay": 72,
+    "timeWeek": 160,
+    "timeMonth": 213,
+    "timeYear": 324,
     "dailyMinutesDown": {}
   }
 ]

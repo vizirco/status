@@ -1,7 +1,7 @@
 url: https://developers.vizir.co
-status: up
-code: 200
-responseTime: 955
-lastUpdated: 2022-03-22T23:04:56.338Z
+status: down
+code: 503
+responseTime: 718
+lastUpdated: 2022-03-23T11:45:40.519Z
 startTime: Fri Apr 09 2021 13:21:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

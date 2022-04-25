@@ -6,24 +6,24 @@ repo: status # Your GitHub repository name
 sites:
   - name: Dashboard
     url: https://dashboard.vizir.co
-    assignees:
-      - bguivarch
-  - name: API
-    url: https://developers.vizir.co
-    assignees:
-      - bguivarch
-  - name: Chatbot Web
+  - name: API Contenu
+    url: $CONTENT_SERVER
+  - name: API Conversation Manager
+    url: $CHATSERVER
+  - name: API Chatbot Web
+    url: $SOCKET_SERVER
+  - name: API Livechat
+    url: $LIVESERVER
+  - name: Chatbot Teams
+    url: $TEAMS_SERVER
+  - name: Chatbot Web (front end)
     url: https://chat.vizir.co
-    assignees:
-      - bguivarch
   - name: Website
     url: https://vizir.co
-    assignees:
-      - bguivarch
   - name: Aide
     url: https://help.vizir.co
-    assignees:
-      - bguivarch
+assignees:
+  - bguivarch
 
 status-website:
   favicon: https://www.vizir.co/wp-content/uploads/2019/04/cropped-favicon-32x32.png

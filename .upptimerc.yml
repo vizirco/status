@@ -6,7 +6,7 @@ repo: status # Your GitHub repository name
 sites:
   - name: Dashboard
     url: https://dashboard.vizir.co
-  - name: API Contenu
+  - name: API
     url: $CONTENT_SERVER
   - name: API Conversation Manager
     url: $CHATSERVER
@@ -16,7 +16,7 @@ sites:
     url: $LIVESERVER
   - name: Chatbot Teams
     url: $TEAMS_SERVER
-  - name: Chatbot Web (front end)
+  - name: Chatbot Web
     url: https://chat.vizir.co
   - name: Website
     url: https://vizir.co

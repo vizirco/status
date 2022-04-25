@@ -8,6 +8,12 @@ sites:
     url: https://dashboard.vizir.co
   - name: API
     url: $CONTENT_SERVER
+  - name: Chatbot Web
+    url: https://chat.vizir.co
+  - name: Website
+    url: https://vizir.co
+  - name: Aide
+    url: https://help.vizir.co
   - name: API Conversation Manager
     url: $CHATSERVER
   - name: API Chatbot Web
@@ -16,12 +22,6 @@ sites:
     url: $LIVESERVER
   - name: Chatbot Teams
     url: $TEAMS_SERVER
-  - name: Chatbot Web
-    url: https://chat.vizir.co
-  - name: Website
-    url: https://vizir.co
-  - name: Aide
-    url: https://help.vizir.co
 assignees:
   - bguivarch
 

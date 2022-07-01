@@ -148,7 +148,7 @@
     "url": "$TEAMS_SERVER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chatbot-teams",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 150,
-    "timeWeek": 133,
+    "timeWeek": 135,
     "timeMonth": 126,
     "timeYear": 122,
     "dailyMinutesDown": {}

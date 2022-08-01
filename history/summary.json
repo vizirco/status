@@ -58,7 +58,7 @@
     "url": "https://vizir.co",
     "icon": "https://favicons.githubusercontent.com/vizir.co",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -157,7 +157,7 @@
     "time": 124,
     "timeDay": 158,
     "timeWeek": 145,
-    "timeMonth": 129,
+    "timeMonth": 128,
     "timeYear": 124,
     "dailyMinutesDown": {}
   }

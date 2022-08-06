@@ -32,7 +32,7 @@
     "timeDay": 563,
     "timeWeek": 614,
     "timeMonth": 603,
-    "timeYear": 1184,
+    "timeYear": 1185,
     "dailyMinutesDown": {}
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://help.vizir.co",
     "icon": "https://favicons.githubusercontent.com/help.vizir.co",
     "slug": "aide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

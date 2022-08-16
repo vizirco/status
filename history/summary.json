@@ -14,7 +14,7 @@
     "timeDay": 1673,
     "timeWeek": 1692,
     "timeMonth": 1473,
-    "timeYear": 1264,
+    "timeYear": 1265,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1210,
+    "time": 1040,
     "timeDay": 692,
     "timeWeek": 720,
     "timeMonth": 629,
-    "timeYear": 1021,
+    "timeYear": 1020,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +76,17 @@
     "url": "https://help.vizir.co",
     "icon": "https://favicons.githubusercontent.com/help.vizir.co",
     "slug": "aide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 274,
-    "timeWeek": 283,
-    "timeMonth": 251,
-    "timeYear": 228,
+    "time": 285,
+    "timeDay": 1795,
+    "timeWeek": 607,
+    "timeMonth": 335,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {

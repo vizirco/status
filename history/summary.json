@@ -67,7 +67,7 @@
     "time": 3192,
     "timeDay": 3611,
     "timeWeek": 4014,
-    "timeMonth": 3836,
+    "timeMonth": 3885,
     "timeYear": 3306,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "url": "https://help.vizir.co",
     "icon": "https://favicons.githubusercontent.com/help.vizir.co",
     "slug": "aide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -103,7 +103,7 @@
     "time": 502,
     "timeDay": 347,
     "timeWeek": 513,
-    "timeMonth": 532,
+    "timeMonth": 540,
     "timeYear": 502,
     "dailyMinutesDown": {}
   },

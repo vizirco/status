@@ -4,24 +4,24 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Dashboard
-    url: https://dashboard.vizir.co
-  - name: API
-    url: $CONTENT_SERVER
-  - name: Chatbot Web
-    url: https://chat.vizir.co
-  - name: Website
-    url: https://vizir.co
-  - name: Aide
-    url: https://help.vizir.co
-  - name: API Conversation Manager
-    url: $CHATSERVER
-  - name: API Chatbot Web
-    url: $SOCKET_SERVER
-  - name: API Livechat
-    url: $LIVESERVER
-  - name: Chatbot Teams
-    url: $TEAMS_SERVER
+  # - name: Dashboard
+  #   url: https://dashboard.vizir.co
+  # - name: API
+  #   url: $CONTENT_SERVER
+  # - name: Chatbot Web
+  #   url: https://chat.vizir.co
+  # - name: Website
+  #   url: https://vizir.co
+  # - name: Aide
+  #   url: https://help.vizir.co
+  # - name: API Conversation Manager
+  #   url: $CHATSERVER
+  # - name: API Chatbot Web
+  #   url: $SOCKET_SERVER
+  # - name: API Livechat
+  #   url: $LIVESERVER
+  # - name: Chatbot Teams
+  #   url: $TEAMS_SERVER
 assignees:
   - bguivarch
 
@@ -46,3 +46,11 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "0 0 * * *"
